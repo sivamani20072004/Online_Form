@@ -5,12 +5,6 @@ This project demonstrates structured form design, client-side validation, and cl
 
 ---
 
-## 📌 Live Preview
-
-https://codesandbox.io/p/sandbox/github/SudeepAcharjee/The-50-Front-end-Project/tree/main/18.Online-Form?file=%2Findex.html
-
----
-
 ## 📖 Project Overview
 
 This is a frontend-only web application designed to collect user information through a structured registration form.
